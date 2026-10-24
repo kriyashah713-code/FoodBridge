@@ -1,4 +1,6 @@
-# Logs
+# Existing projects in workspace
+react-app/
+todo-app/
 logs
 *.log
 npm-debug.log*
