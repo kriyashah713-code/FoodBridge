@@ -3,6 +3,9 @@
 > **Academic Engineering Capstone Project**  
 > *Third-Year B.Tech Computer Engineering*  
 > Built with **React 18, TypeScript, Vite, React Router 6, and Supabase PostgreSQL**.
+> 
+> 🌐 Live Website
+> https://foodbridge-ufsm.onrender.com/
 
 ---
 
